@@ -37,7 +37,7 @@ DIN mount PLC with following features
 | 1 | Crystal | 16MHz | HC49U-V |
 | 2 | PNP transistor | BCX71SMD | SOT23 |
 | 1 | P-mosfet | DMG2305UX | SOT23 |
-| 2 | N-mosfet | IRLML0060TRPBF SOT23 |
+| 2 | N-mosfet | IRLML0060TRPBF | SOT23 |
 | 5 | Resistor| 1K | R0805 |
 | 5 | Resistor| 2K2 | R0805 |
 | 4 | Resistor| 10K | R0805 |
